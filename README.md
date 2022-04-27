@@ -1,5 +1,5 @@
 # My Python-password-manager
-- Here's mine using Python to make password manager: 
+- Here's mine code using Python to make password manager: 
 ~~~python
 import random as r 
 
